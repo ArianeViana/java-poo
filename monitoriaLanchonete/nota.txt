@@ -1,0 +1,3 @@
+Hamburguer - 29.99
+Coca-cola - 12.99
+Valor total - 42.98

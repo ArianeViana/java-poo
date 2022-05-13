@@ -1,0 +1,5 @@
+Lanche;Pizza;49.99
+Lanche;Cachorro-Quente;19.99
+Lanche;Hamburguer;29.99
+Bebida;Fanta Uva;9.99
+Bebida;Coca-cola;12.99
